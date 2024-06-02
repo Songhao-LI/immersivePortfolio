@@ -8,8 +8,7 @@ This project is a immersive portfolio website.
 Built using:
 
 - Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+- 3D graphics library: Three.js
 
 In the /personal-portfolio, you can run:
 
