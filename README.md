@@ -1,6 +1,6 @@
 # Immersive Portfolio Website
 
-This project is a immersive portfolio website. You can access it according to [Songhao's immersive blog](https://songhao-li.github.io/immersivePortfolio/)
+This project is a immersive portfolio website. You can view this portfolio according to [Songhao's immersive blog](https://songhao-li.github.io/immersivePortfolio/)
 
 ![preview_1](public/images/preview.png "preview_1")
 ![preview_2](public/images/preview-dark.png "preview_2")
