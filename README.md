@@ -1,5 +1,22 @@
-# 3d-portfolio
-Personal Portfolio website designed using ThreeJS
+# Immersive Portfolio Website
 
-1. `npm install` to install dependencies.  
-2. `npm run dev` to start the development server.
+This project is a immersive portfolio website.
+
+![preview_1](public/images/preview.png "preview_1")
+![preview_2](public/images/preview-dark.png "preview_2")
+
+Built using:
+
+- Front-end library: React
+- CSS framework: React-bootstrap
+- CSS animations library: Animate.css
+
+In the /personal-portfolio, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
